@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/pQFKWr2/You-Tube-Downloader-Logo.png" alt="Project Logo">
+      <img src="https://i.ibb.co/dM54rVB/You-Tube-Downloader-Logo.png" alt="Project Logo">
 </p>
 
 <p align="center">
